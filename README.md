@@ -1,5 +1,5 @@
 👋 Hi, I'm SHAHID!  
-- 🌱 Learning: QA Testing, Python, Web Dev  
+- 🌱 Learning: QA Testing, Python, Web Dev and parsonal used to 
 - 🔭 Current Project: [Portfolio](https://github.com/Hassnathst/portfolio)  
 - 📫 Reach me: [neo.st09@gmail.com]  
 
